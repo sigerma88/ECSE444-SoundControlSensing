@@ -6,8 +6,8 @@ It implements a multi-sensor interactive system for real-time data acquisition, 
 
 Contributors to the project:
 
-- Siger Ma [@sigerma88](github.com/sigerma88)  
-- Pierre Khoury [@pkwolf11](github.com/pkwolf11)  
-- Mihir Kumar [@MAKS-1211](github.com/MAKS-1211)  
-- Nicholas Sun [@nickksunn](github.com/nickksunn)  
+- Siger Ma [@sigerma88](https://github.com/sigerma88)  
+- Pierre Khoury [@pkwolf11](https://github.com/pkwolf11)  
+- Mihir Kumar [@MAKS-1211](https://github.com/MAKS-1211)  
+- Nicholas Sun [@nickksunn](https://github.com/nickksunn)  
 
